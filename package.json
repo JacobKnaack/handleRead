@@ -1,0 +1,23 @@
+{
+  "name": "handleread",
+  "version": "1.0.0",
+  "description": "Can Read Friends from a dynamoDB Table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobKnaack/handleRead.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobKnaack/handleRead/issues"
+  },
+  "homepage": "https://github.com/JacobKnaack/handleRead#readme",
+  "dependencies": {
+    "dynamoose": "^2.8.5"
+  }
+}
